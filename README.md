@@ -30,9 +30,9 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [Exercise](https://github.com/Dimitar-Peev/Programming-Basics-with-Python/tree/main/04_for_loop/02_exercise)
 - [More Exercises](https://github.com/Dimitar-Peev/Programming-Basics-with-Python/tree/main/04_for_loop/03_more_exercises)
 ### While Loop 
-- [Lab](#)
-- [Exercise](#)
-- [More Exercises](#)
+- [Lab](https://github.com/Dimitar-Peev/Programming-Basics-with-Python/tree/main/05_while_loop/01_lab)
+- [Exercise](https://github.com/Dimitar-Peev/Programming-Basics-with-Python/tree/main/05_while_loop/02_exercise)
+- [More Exercises](https://github.com/Dimitar-Peev/Programming-Basics-with-Python/tree/main/05_while_loop/03_more_exercises)
 ### Nested Loops
 - [Lab](#)
 - [Exercise](#)
