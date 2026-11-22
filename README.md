@@ -40,7 +40,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 
 
 ## Exams
-- [Programming Basics Online Exam - 9 And 10 March 2019](#)
+- [Programming Basics Online Exam - 9 And 10 March 2019](https://github.com/Dimitar-Peev/Programming-Basics-with-Python/tree/main/08_pb_exams/pb_online_exam_9_and_10_march_2019)
 - [Programming Basics Online Exam - 6 And 7 April 2019](#)
 - [Programming Basics Online Exam - 20 And 21 April 2019](#)
 - [Programming Basics Retake Online Exam - 2 And 3 May 2019](#)
